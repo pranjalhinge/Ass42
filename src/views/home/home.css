@@ -1,0 +1,15 @@
+
+.home-container{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(./Starbucks-Store.webp);
+    height: 90vh;
+}
+.card-container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.card{
+    margin: 10px;
+}

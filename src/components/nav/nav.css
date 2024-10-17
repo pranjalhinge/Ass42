@@ -1,0 +1,35 @@
+.nav-Bar{
+    height: 10vh;
+    width:100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-logo{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    color: black;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+.nav-title{
+    color: black;
+    height: 3rem;
+    border-radius: 2rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    
+}
+.nav-option{
+    display: flex;
+    margin-right: 3rem;
+}
+.links{
+    color: black;
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-left: 3rem;
+    text-decoration: none;
+}
