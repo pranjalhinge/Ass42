@@ -39,10 +39,10 @@
     height: 100%;
 }
 .btn-add{
-    background: #10649c;
+    background: greenyellow;
     padding: 4px 0.6rem;
     border-radius: 1.2rem;
-    color: whitesmoke;
+    color: black;
     border: none;
     font-weight: 400;
     transition: 0.5s ease-in-out;
